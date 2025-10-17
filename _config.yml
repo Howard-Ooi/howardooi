@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Howard"
+  pronouns         : # example: "He/Him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Malaysia 🇲🇾"
+  employer         : "Chung Ling Private Private High School"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "s25042@clphs.edu.my" 
 
   # Academic websites
   academia         : # URL
